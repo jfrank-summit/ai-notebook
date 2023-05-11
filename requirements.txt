@@ -15,3 +15,5 @@ torchaudio
 transformers
 diffusers
 accelerate
+duckduckgo-search
+faiss_cpu
