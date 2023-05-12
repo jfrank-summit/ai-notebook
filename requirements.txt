@@ -17,3 +17,4 @@ diffusers
 accelerate
 duckduckgo-search
 faiss_cpu
+einops
